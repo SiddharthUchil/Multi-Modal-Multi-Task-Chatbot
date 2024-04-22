@@ -1,6 +1,6 @@
 # Advanced Multimodal Chatbot
 
-Welcome to my advanced multimodal chatbot! Here's a breakdown of what it can do and how to get it up and running.
+Welcome to an advanced multimodal chatbot that combines various state-of-the-art language models and techniques to provide a versatile and powerful conversational AI assistant. This chatbot is designed to handle a wide range of tasks, from natural language interactions to image generation and understanding.
 ## Multi-Modal Multi-task Chatbot
 <div align="center">
   <img src="images/HUMAIN.png" alt="HUMAIN">
@@ -22,9 +22,9 @@ Welcome to my advanced multimodal chatbot! Here's a breakdown of what it can do 
 
 
 ## Main underlying techniques used in this chatbot:
-- LLM chains and agents
-- GPT function calling
-- Retrieval Augmented generation (RAG)
+- LLM Chains and Agents: The chatbot leverages large language models (LLMs) and their chaining capabilities to perform various tasks.
+- GPT Function Calling: The chatbot utilizes the GPT model's ability to call functions and integrate external services.
+- Retrieval Augmented Generation (RAG): The chatbot combines language generation with information retrieval to provide more accurate and informative responses.
 
 ## Models used in this chatbot:
 - GPT 3.5: [Website](https://platform.openai.com/docs/models)
